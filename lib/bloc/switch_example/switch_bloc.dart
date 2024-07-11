@@ -1,6 +1,6 @@
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:learning_bloc/bloc/switch_example/bloc/switch_event.dart';
-import 'package:learning_bloc/bloc/switch_example/bloc/switch_state.dart';
+import 'package:learning_bloc/bloc/switch_example/switch_event.dart';
+import 'package:learning_bloc/bloc/switch_example/switch_state.dart';
 
 class SwitchBloc extends Bloc<SwitchEvent, SwitchState> {
   SwitchBloc() : super(SwitchState()) {

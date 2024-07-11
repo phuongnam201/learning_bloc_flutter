@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:learning_bloc/bloc/favorite/bloc/favorite_app_bloc.dart';
-import 'package:learning_bloc/bloc/favorite/bloc/favorite_app_event.dart';
-import 'package:learning_bloc/bloc/favorite/bloc/favorite_app_state.dart';
+import 'package:learning_bloc/bloc/favorite/favorite_app_bloc.dart';
+import 'package:learning_bloc/bloc/favorite/favorite_app_event.dart';
+import 'package:learning_bloc/bloc/favorite/favorite_app_state.dart';
 import 'package:learning_bloc/model/favorite_item_model.dart';
 
 class FavoriteAppScreen extends StatefulWidget {

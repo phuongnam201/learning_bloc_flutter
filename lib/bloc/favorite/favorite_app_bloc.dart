@@ -1,6 +1,6 @@
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:learning_bloc/bloc/favorite/bloc/favorite_app_event.dart';
-import 'package:learning_bloc/bloc/favorite/bloc/favorite_app_state.dart';
+import 'package:learning_bloc/bloc/favorite/favorite_app_event.dart';
+import 'package:learning_bloc/bloc/favorite/favorite_app_state.dart';
 import 'package:learning_bloc/model/favorite_item_model.dart';
 import 'package:learning_bloc/repository/favorite_repository.dart';
 
